@@ -3,6 +3,12 @@ name: CI
 on:
   push:
     branches:
+      - main
+      - develop
+      - ^feature\/[0-9]+$
+  pull_request:
+    branches:
+      - main
       - develop
       - ^feature\/[0-9]+$
 
