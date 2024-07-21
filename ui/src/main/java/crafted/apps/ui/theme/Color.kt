@@ -1,4 +1,4 @@
-package crafted.apps.fitnee.ui.theme
+package crafted.apps.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

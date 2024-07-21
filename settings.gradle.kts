@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Fitnee"
 include(":app")
- 
+include(":model")
+include(":ui")

@@ -13,7 +13,7 @@
         android:theme="@style/Theme.Fitnee"
         tools:targetApi="34">
         <activity
-            android:name=".MainActivity"
+            android:name="crafted.apps.ui.MainActivity"
             android:exported="true"
             android:theme="@style/Theme.Fitnee">
             <intent-filter>
